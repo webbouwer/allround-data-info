@@ -15,7 +15,7 @@ Als de betrokkene zelf de gegevens geeft, dan moet je hem/haar daarbij direct in
  Webbouwer Checklist (in progress)
 
 - [ ] Transparantie:
-- Heldere communicatie over gegevens gebruik
+  - Heldere communicatie over gegevens gebruik
 
 - [ ] Website/Applicatie algemeen:
   - SSL / https protocol (standard data encryptie/versleuteling)
