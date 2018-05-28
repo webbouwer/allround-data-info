@@ -44,7 +44,7 @@ Meer info
 
 - Privacy by design en privacy by default: Bij privacy by design wordt bij de ontwikkeling van nieuwe producten of diensten standaard technisch en organisatorisch zorgvuldig met persoonsgegevens om gegaan. Privacy by default betekent dat maatregelen worden genomen om standaard alleen de noodzakelijke gegevens te verzamelen voor het doel waarvoor je ze verzamelt.
 
-[top](https://github.com/webbouwer/boilerplates/tree/master/data/privacy/GDPR)
+[top](#avg-info--notes-gdrp)
 
 ### Persoonsgegevens
 
@@ -69,7 +69,7 @@ De AVG kent 6 grondslagen voor het verwerken van persoonsgegevens:
 
 zonder bovengenoemde grondslagen mogen persoongegevens niet verwerkt worden.
 
-[top](https://github.com/webbouwer/boilerplates/tree/master/data/privacy/GDPR)
+[top](#avg-info--notes-gdrp)
 
 ### Verantwoordingsplicht
 
@@ -85,7 +85,7 @@ De verplichte maatregelen die de AVG concreet noemt zijn:
 - het aantonen dat een betrokkene daadwerkelijk toestemming heeft gegeven voor een gegevensverwerking wanneer u voor een verwerking toestemming nodig heeft.
 - wanneer onduidelijk is of u verplicht bent om een Functionaris voor gegevensbescherming aan te stellen, moet u goed kunnen onderbouwen waarom u ervoor gekozen hebt om al dan niet een FG aan te stellen.
 
-[top](https://github.com/webbouwer/boilerplates/tree/master/data/privacy/GDPR)
+[top](#avg-info--notes-gdrp)
 
 ---
 
@@ -122,3 +122,4 @@ Bijvoorbeeld het aansluiten bij een gedragscode en/of het afleggen van verantwoo
 - [12 steps](https://ico.org.uk/media/1624219/preparing-for-the-gdpr-12-steps.pdf)
 - [GDPR How to make your website compliant 6](https://www.hallaminternet.com/how-to-make-your-website-gdpr-compliant/)
 
+[top](#avg-info--notes-gdrp)
