@@ -4,7 +4,7 @@
 
 ## General Data Protection Regulation (GDPR)
 
-Notes on the new GDPR law, sources
+Notes on the new GDPR law including sources for background info.
 
 European privacy law [Article 5 EU GDPR](http://www.privacy-regulation.eu/en/5.htm)
 
