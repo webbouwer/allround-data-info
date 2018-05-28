@@ -106,5 +106,6 @@ Bijvoorbeeld het aansluiten bij een gedragscode en/of het afleggen van verantwoo
 - [AVG beginselen 3](http://www.privacy-regulation.eu/nl/artikel-5-beginselen-inzake-verwerking-van-persoonsgegevens-EU-AVG.htm)
 - [AVG B2B 4](https://www.onlinesucces.nl/b2b-avg-gdpr-marketing/)
 - [AVG Article 5 EU GDPR 5](http://www.privacy-regulation.eu/en/5.htm)
+- [Zo is je privacyverklaring avg gdpr proof](https://www.frankwatching.com/archive/2018/01/12/zo-is-je-privacyverklaring-avg-gdpr-proof/)
 - [GDPR How to make your website compliant 6](https://www.hallaminternet.com/how-to-make-your-website-gdpr-compliant/)
 
