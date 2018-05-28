@@ -9,6 +9,7 @@ Voor de behandeling van de gegevens is het dus aan de onderneming of zzp-er (de 
 
 Als richtlijn moet de privacy verklaring 
 - de doelmatigheid van het gebruik van de persoonlijke gegevens (bv. Aankoop en levering, Mailinglist, Aanbieders Database) duidelijk omschrijven 
+- aangeven als (en deel van) betreffende gegevens via een derde partij zijn verkregen
 - aparte opt-ins bieden voor verschillende data behandelingen;
    - De manier waarop de gegevens gebruikt gaan worden (bv. Telefoon, post, email, text, geautomatiseerde berichten etc.)
    - Het doorgeven van informatie aan en gebruik door derden (bv. Cloud-diensten, software services, pakketdiensten, partner organisaties etc.)
