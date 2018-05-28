@@ -101,4 +101,5 @@ sources / NL bronnen
 - [AVG beginselen 3](http://www.privacy-regulation.eu/nl/artikel-5-beginselen-inzake-verwerking-van-persoonsgegevens-EU-AVG.htm)
 - [AVG B2B 4](https://www.onlinesucces.nl/b2b-avg-gdpr-marketing/)
 - [AVG Article 5 EU GDPR 5](http://www.privacy-regulation.eu/en/5.htm)
+- [GDPR How to make your website compliant 6](https://www.hallaminternet.com/how-to-make-your-website-gdpr-compliant/)
 
