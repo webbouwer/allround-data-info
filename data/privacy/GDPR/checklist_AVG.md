@@ -12,4 +12,4 @@ Websites / web applicates:
 
 Administratie / data opslag 
 - media en locatie
-- verantwoordelijkheidsplicht en beveiliging
+- Verantwoordingsplicht en beveiliging
