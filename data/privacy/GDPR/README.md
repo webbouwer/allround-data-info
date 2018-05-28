@@ -3,12 +3,14 @@
 ## General Data Protection Regulation (GDPR)
 
 Dutch/European privacy law [Article 5 EU GDPR](http://www.privacy-regulation.eu/en/5.htm)
+
+EN [The GDPR Compliance Checklist](https://gdprchecklist.io/)
+
 ### AVG (NL)
 
 2018 05 25 - Algemene verordening gegevensbescherming (AVG) van toepassing (EU) ipv. de Wet bescherming persoonsgegevens (Wbp). Voor iedereen, muv. justitie en politie, die persoonsgegevens (privacy data) verzamelen en behandelen is sinds 25 mei 2018 de AVG van kracht. 
 
 #### In het kort: Zorg dat u aantoonbaar toestemming heeft van de personen waarvan persoonlijke data zakelijk verwerkt wordt en zorg dat uw bedrijf, indien gevraagd door de Autoriteit Persoonsgegevens, kan aantonen dat er geen (verhoogt) privacyrisico voor betreffende persoon is.
-
 
 ---
 
