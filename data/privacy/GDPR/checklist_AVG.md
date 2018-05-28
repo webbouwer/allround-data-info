@@ -40,9 +40,9 @@ Hieronder een overzicht van aandachtspunten binnen de AVG voor webbouwers
 
 
 - [ ] Trackers
-  - als tracker-software persoonsgebonden informatie opslaat moet hiervoor toestemming gevraagd worden
-  (google analytics bewaard wel data, maar niet persoonsgebonden)
-
+  - als tracker-software persoonsgebonden informatie opslaat moet hiervoor toestemming gevraagd worden.
+  bv. Google analytics bewaard data, in de eerste plaats niet persoonsgebonden, tenzij de bezoeker is aangemeld bij Google; er moet voor het delen van de gegevens met Google toestemming gegeven worden.  
+  
 - [ ] Administratie 
   - data opslag 
   - media en locatie
