@@ -12,12 +12,12 @@ Dutch/European privacy law [Article 5 EU GDPR](http://www.privacy-regulation.eu/
 
 ---
 
-- Hoofdpunten
-- Persoonsgegevens
-- Verplichting 
-- Grondslagen
-- Verantwoordingsplicht
-- Maatregelen
+- [Hoofdpunten](#hoofdpunten)
+- [Persoonsgegevens](#persoonsgegevens)
+- [Verplichting](#verplichting)
+- [Grondslagen](#grondslagen)
+- [Verantwoordingsplicht](#verantwoordingsplicht)
+- [Maatregelen](#verplichte-maatregelen)
 
 ---
 ### Hoofdpunten
