@@ -20,7 +20,7 @@ Index
 - [Grondslagen](#grondslagen)
 - [Verantwoordingsplicht](#verantwoordingsplicht)
 - [Maatregelen](#verplichte-maatregelen)
-- [Bron](#bronnen-NL)
+- [Bronnen](#bronnen-nl)
 
 Meer info
 - [Webouwer Richtlijn Privacy verklaring](https://github.com/webbouwer/boilerplates/blob/master/data/privacy/GDPR/checklist_AVG_media.md)
