@@ -91,7 +91,7 @@ De verplichte maatregelen die de AVG concreet noemt zijn:
 
 ---
 
-Korte web tekst ter kennisgeving en instemming AVG is in de maak.
+Kennisgeving en instemming AVG
 - Website / application owners
 - Business owners
 
