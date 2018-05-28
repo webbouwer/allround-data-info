@@ -18,3 +18,5 @@ Als richtlijn moet de privacy verklaring
 - "privacy by design" - oa. de toestemming(en) moeten eenvoudig herzien/ingetrokken kunnen worden door betreffende persoon
    
 Hiermee wordt de instemming (opt-ins) van de klant/gebruiker met privacy overeenkomst volgens de AVG behandeld.
+
+[AVG info](https://github.com/webbouwer/boilerplates/tree/master/data/privacy/GDPR)
