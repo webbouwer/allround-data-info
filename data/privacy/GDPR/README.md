@@ -114,7 +114,7 @@ Bijvoorbeeld het aansluiten bij een gedragscode en/of het afleggen van verantwoo
 - [AVG Notendop 1](https://autoriteitpersoonsgegevens.nl/sites/default/files/atoms/files/avg_in_een_notendop.pdf)
 - [AVG algemeen 2](https://autoriteitpersoonsgegevens.nl/nl/onderwerpen/avg-europese-privacywetgeving/algemene-informatie-avg)
 - [AVG beginselen 3](http://www.privacy-regulation.eu/nl/artikel-5-beginselen-inzake-verwerking-van-persoonsgegevens-EU-AVG.htm)
-- [Advies wetsvoorstel Uitvoeringswet AVG](https://autoriteitpersoonsgegevens.nl/sites/default/files/atoms/files/advies_uitvoeringswet_avg.pdf) PDF| [github](https://github.com/webbouwer/boilerplates/blob/master/data/privacy/GDPR/advies_uitvoeringswet_avg.pdf)
+- [Advies wetsvoorstel Uitvoeringswet AVG](https://autoriteitpersoonsgegevens.nl/sites/default/files/atoms/files/advies_uitvoeringswet_avg.pdf) PDF - download [github](https://github.com/webbouwer/boilerplates/blob/master/data/privacy/GDPR/advies_uitvoeringswet_avg.pdf)
 - [AVG B2B 4](https://www.onlinesucces.nl/b2b-avg-gdpr-marketing/)
 - [AVG Article 5 EU GDPR 5](http://www.privacy-regulation.eu/en/5.htm)
 - [Zo is je privacyverklaring avg gdpr proof](https://www.frankwatching.com/archive/2018/01/12/zo-is-je-privacyverklaring-avg-gdpr-proof/)
