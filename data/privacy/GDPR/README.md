@@ -1,6 +1,6 @@
-### Notes GDRP / Notities AVG 
+###  AVG info / Notes GDRP
 
-## General Data Protection Regulation (GDPR)
+## Algemene verordening gegevensbescherming - General Data Protection Regulation (GDPR)
 
 Dutch/European privacy law [Article 5 EU GDPR](http://www.privacy-regulation.eu/en/5.htm)
 
@@ -42,6 +42,8 @@ Meer info
 
 - Privacy by design en privacy by default: Bij privacy by design wordt bij de ontwikkeling van nieuwe producten of diensten standaard technisch en organisatorisch zorgvuldig met persoonsgegevens om gegaan. Privacy by default betekent dat maatregelen worden genomen om standaard alleen de noodzakelijke gegevens te verzamelen voor het doel waarvoor je ze verzamelt.
 
+[top](https://github.com/webbouwer/boilerplates/tree/master/data/privacy/GDPR)
+
 ### Persoonsgegevens
 
 ##### Wat verstaat de AVG onder bijzondere persoonsgegevens?
@@ -65,6 +67,8 @@ De AVG kent 6 grondslagen voor het verwerken van persoonsgegevens:
 
 zonder bovengenoemde grondslagen mogen persoongegevens niet verwerkt worden.
 
+[top](https://github.com/webbouwer/boilerplates/tree/master/data/privacy/GDPR)
+
 ### Verantwoordingsplicht
 
 De verwerking van persoonsgegevens moet op minimaal 1 van de 6 AVG-grondslagen gebaseerd zijn als de Autoriteit Persoonsgegevens daar om vraagt. 
@@ -78,6 +82,8 @@ De verplichte maatregelen die de AVG concreet noemt zijn:
 - het bijhouden van een register van datalekken die zijn opgetreden;
 - het aantonen dat een betrokkene daadwerkelijk toestemming heeft gegeven voor een gegevensverwerking wanneer u voor een verwerking toestemming nodig heeft.
 - wanneer onduidelijk is of u verplicht bent om een Functionaris voor gegevensbescherming aan te stellen, moet u goed kunnen onderbouwen waarom u ervoor gekozen hebt om al dan niet een FG aan te stellen.
+
+[top](https://github.com/webbouwer/boilerplates/tree/master/data/privacy/GDPR)
 
 ---
 
