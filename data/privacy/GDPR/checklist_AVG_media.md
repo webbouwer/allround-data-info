@@ -13,8 +13,8 @@ Als richtlijn moet de privacy verklaring
    - De manier waarop de gegevens gebruikt gaan worden (bv. Telefoon, post, email, text, geautomatiseerde berichten etc.)
    - Het doorgeven van informatie aan en gebruik door derden (bv. Cloud-diensten, software services, pakketdiensten, partner organisaties etc.)
       - inclusief lijst met namen van de bedrijven en diensten die de persoonsgegevens verwerken.
-   - Let op! Het moet de opt-in zijn (een niet vooraf aangevinkt vakje voor toestemming) 
+- "privacy by default" - oa. het moet opt-in zijn (een niet vooraf aangevinkt vakje voor toestemming) 
+- "privacy by design" - oa. de toestemming(en) oeten eenvoudig herzien/ingetrokken kunnen worden door betreffende persoon
    
-Hiermee wordt de opt-in van de klant/gebruiker volgens de AVG behandeld in de termen van  "privacy by default" en "privacy by design".
-
+Hiermee wordt de opt-in van de klant/gebruiker volgens de AVG behandeld.
   
