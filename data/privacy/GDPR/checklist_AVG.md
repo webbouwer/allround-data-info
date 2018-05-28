@@ -7,7 +7,7 @@ Full Checklist in progress
 
 - [ ] Website/Applicatie algemeen:
   - SSL / https protocol (standard data encryptie/versleuteling)
-  - Cookie toestemming (wanneer en cookie gebruikt wordt om persoonsgebonden gegevens te verzamelen)
+  - Cookie toestemming (wanneer een cookie niet essentiëel is voor de website of aplicatie en gebruikt wordt om persoonsgebonden gegevens te verzamelen zoals social media deelknoppen, remarketing lijsten en visuele analytics (heatmaps)
   - AVG toestemming (wanneer persoonsgevens bewaard en gebruikt worden)
 
 - [ ] Web Formulieren/data verzamelen:
