@@ -11,14 +11,17 @@ Als de betrokkene zelf de gegevens geeft, dan moet je hem/haar daarbij direct in
 - [ ] Recht op inzage, rectificatie of wissen van de persoonsgegevens. De betrokkene heeft dit recht en daarover moet je hem/haar in de privacyverklaring informeren. Hierbij kun je meteen vermelden hoe de betrokkene dat verzoek kan indienen.
 - [ ] Het recht om een klacht in te dienen bij de Autoriteit Persoonsgegevens.
 
+[AVG info](https://github.com/webbouwer/boilerplates/tree/master/data/privacy/GDPR)
+
 --- 
- Webbouwer Checklist (in progress)
+ ### Webbouwer Checklist (in progress)
+Hieronder een overzicht van aandachtspunten binnen de AVG voor webbouwers
 
 - [ ] Transparantie:
   - Heldere communicatie over gegevens gebruik
 
 - [ ] Website/Applicatie algemeen:
-  - SSL / https protocol (standard data encryptie/versleuteling)
+  - SSL / https protocol (standaard data encryptie/versleuteling)
   - Cookie toestemming (wanneer een cookie niet essentiëel is voor de website of aplicatie en gebruikt wordt om persoonsgebonden gegevens te verzamelen zoals social media deelknoppen, remarketing lijsten en visuele analytics (heatmaps)
   - AVG toestemming (wanneer persoonsgevens bewaard en gebruikt worden)
 
@@ -46,6 +49,8 @@ Als de betrokkene zelf de gegevens geeft, dan moet je hem/haar daarbij direct in
   - Verantwoordingsplicht en beveiliging
   - Derde partijen moeten met naam genoemd worden en zijn niet verantwoordelijk voor de data 
 
+
+[AVG info](https://github.com/webbouwer/boilerplates/tree/master/data/privacy/GDPR)
 
 ---
 
