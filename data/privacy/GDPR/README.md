@@ -4,7 +4,7 @@
 
 Dutch/European privacy law [Article 5 EU GDPR](http://www.privacy-regulation.eu/en/5.htm)
 
-EN [The GDPR Compliance Checklist](https://gdprchecklist.io/)
+EN [The GDPR Compliance Checklist](https://gdprchecklist.io/) | [CANDDi-GDPR](https://42kau828bfupkoivy3cyep8r-wpengine.netdna-ssl.com/assets/CANDDi-GDPR.pdf) | [12 steps](https://ico.org.uk/media/1624219/preparing-for-the-gdpr-12-steps.pdf)
 
 ### AVG (NL)
 
