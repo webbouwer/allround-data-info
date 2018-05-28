@@ -12,6 +12,8 @@ EN [The GDPR Compliance Checklist](https://gdprchecklist.io/) | [CANDDi-GDPR](ht
 
 #### In het kort: Zorg dat u aantoonbaar toestemming heeft van de personen waarvan persoonlijke data zakelijk verwerkt wordt en zorg dat uw bedrijf, indien gevraagd door de Autoriteit Persoonsgegevens, kan aantonen dat er geen (verhoogt) privacyrisico voor betreffende persoon is.
 
+[Webbouwer Checklist AVG (in ontwikkeling)](https://github.com/webbouwer/boilerplates/blob/master/data/privacy/GDPR/checklist_AVG.md)
+
 ---
 
 - [Hoofdpunten](#hoofdpunten)
