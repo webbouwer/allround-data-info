@@ -1,6 +1,18 @@
 ## AVG Checklist
 
-Full Checklist in progress
+Algemeen:
+Als de betrokkene zelf de gegevens geeft, dan moet je hem/haar daarbij direct informeren. Krijg je de persoonsgegevens niet van de betrokkene zelf, dan moet je binnen een maand na het krijgen van de gegevens of bij het eerste contact (zoals via direct marketing) hem/haar informeren.
+
+### Wat moet er in de privacy verklaring staan?
+- [ ] Identiteit. Bijvoorbeeld de bedrijfsnaam (zoals die is ingeschreven bij de KvK) en de contactgegevens.
+- [ ] Doeleinden en rechtsgronden voor de verwerking. Rechtsgronden zijn bijvoorbeeld toestemming, uitvoering van een overeenkomst of een wettelijke verplichting. Een doel kan de uitvoering van de overeenkomst zijn, maar het kan ook een marketingdoel zijn, zoals het verzenden van een nieuwsbrief. Je moet alle doeleinden beschrijven.
+- [ ] Als de verwerking van de persoonsgegevens een wettelijke of contractuele verplichting of noodzakelijke voorwaarde is, moet je ook de gevolgen van het niet verstrekken van de persoonsgegevens vermelden.
+- [ ] Duur van de opslag. Je moet aangeven hoe lang de gegevens bewaard worden, of anders: welke criteria bepalen hoe lang het opgeslagen zal worden.
+- [ ] Recht op inzage, rectificatie of wissen van de persoonsgegevens. De betrokkene heeft dit recht en daarover moet je hem/haar in de privacyverklaring informeren. Hierbij kun je meteen vermelden hoe de betrokkene dat verzoek kan indienen.
+- [ ] Het recht om een klacht in te dienen bij de Autoriteit Persoonsgegevens.
+
+--- 
+ Webbouwer Checklist (in progress)
 
 - [ ] Transparantie:
 - Heldere communicatie over gegevens gebruik
