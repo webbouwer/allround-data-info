@@ -25,8 +25,16 @@ Trackers
 - als tracker-software persoonsgebonden informatie opslaat moet hiervoor toestemming gevraagd worden
   - google analytics bewaard wel data, maar niet persoonsgebonden.
 
-Administratie / data opslag 
-- media en locatie
+- Administratie 
+  - data opslag 
+  - media en locatie
 - Verantwoordingsplicht en beveiliging
+- Derde partijen
+
+---
+
+Privacy Policy 
+- In de privacy policy komen alle onderwerpen en vragen aanbod
+- Voorbeeld (EN) ![i](https://assets.econsultancy.com/images/0008/7669/privacy_notice_ico.jpg)
 
 ---
