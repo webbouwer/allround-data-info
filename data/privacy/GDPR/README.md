@@ -20,6 +20,7 @@ Index
 - [Grondslagen](#grondslagen)
 - [Verantwoordingsplicht](#verantwoordingsplicht)
 - [Maatregelen](#verplichte-maatregelen)
+- [Bron](#bronnen-NL)
 
 Meer info
 - [Webouwer Richtlijn Privacy verklaring](https://github.com/webbouwer/boilerplates/blob/master/data/privacy/GDPR/checklist_AVG_media.md)
@@ -98,7 +99,8 @@ Bijvoorbeeld het aansluiten bij een gedragscode en/of het afleggen van verantwoo
 
 ---
 
-sources / NL bronnen
+
+### bronnen NL
 - [AVG Notendop 1](https://autoriteitpersoonsgegevens.nl/sites/default/files/atoms/files/avg_in_een_notendop.pdf)
 - [AVG algemeen 2](https://autoriteitpersoonsgegevens.nl/nl/onderwerpen/avg-europese-privacywetgeving/algemene-informatie-avg)
 - [AVG beginselen 3](http://www.privacy-regulation.eu/nl/artikel-5-beginselen-inzake-verwerking-van-persoonsgegevens-EU-AVG.htm)
