@@ -2,20 +2,16 @@
 
 ## Algemene verordening gegevensbescherming (AVG)
 
-## General Data Protection Regulation (GDPR)
+## (General Data Protection Regulation - GDPR)
 
 Notes on the new GDPR law including sources for background info.
 
 European privacy law [Article 5 EU GDPR](http://www.privacy-regulation.eu/en/5.htm)
 
-### AVG (NL)
-
-2018 05 25 - Algemene verordening gegevensbescherming (AVG) van toepassing (EU) ipv. de Wet bescherming persoonsgegevens (Wbp). Voor iedereen, muv. justitie en politie, die persoonsgegevens (privacy data) verzamelen en behandelen is sinds 25 mei 2018 de AVG van kracht. 
-
-#### In het kort: Zorg dat u aantoonbaar toestemming heeft van de personen waarvan persoonlijke data zakelijk verwerkt wordt en zorg dat uw bedrijf, indien gevraagd door de Autoriteit Persoonsgegevens, kan aantonen dat er geen (verhoogt) privacyrisico voor betreffende persoon is.
-
 ---
+
 Index
+- [AVG NL](#avg-nl)
 - [Hoofdpunten](#hoofdpunten)
 - [Persoonsgegevens](#persoonsgegevens)
 - [Verplichting](#verplichting)
@@ -24,10 +20,19 @@ Index
 - [Maatregelen](#verplichte-maatregelen)
 - [Bronnen](#bronnen-nl)/[sources](#sources-en)
 
-Meer info
+Richtlijnen en checklist
 - [Webouwer Richtlijn Privacy verklaring](https://github.com/webbouwer/boilerplates/blob/master/data/privacy/GDPR/checklist_AVG_media.md)
 - [Webbouwer Checklist AVG (in ontwikkeling)](https://github.com/webbouwer/boilerplates/blob/master/data/privacy/GDPR/checklist_AVG.md)
+
 ---
+
+### AVG (NL)
+
+2018 05 25 - Algemene verordening gegevensbescherming (AVG) van toepassing (EU) ipv. de Wet bescherming persoonsgegevens (Wbp). Voor iedereen, muv. justitie en politie, die persoonsgegevens (privacy data) verzamelen en behandelen is sinds 25 mei 2018 de AVG van kracht. 
+
+#### In het kort: Zorg dat u aantoonbaar toestemming heeft van de personen waarvan persoonlijke data zakelijk verwerkt wordt en zorg dat uw bedrijf, indien gevraagd door de Autoriteit Persoonsgegevens, kan aantonen dat er geen (verhoogt) privacyrisico voor betreffende persoon is.
+
+
 ### Hoofdpunten
 
 - Transparantie: Duidelijk informeren over hoe de persoonsgegevens worden verzamelt, verwerkt en overgedragen.
