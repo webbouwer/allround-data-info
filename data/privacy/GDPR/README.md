@@ -1,10 +1,12 @@
 ###  AVG info / Notes GDRP
 
-## Algemene verordening gegevensbescherming - General Data Protection Regulation (GDPR)
+## Algemene verordening gegevensbescherming (AVG)
 
-Dutch/European privacy law [Article 5 EU GDPR](http://www.privacy-regulation.eu/en/5.htm)
+## General Data Protection Regulation (GDPR)
 
-EN [The GDPR Compliance Checklist](https://gdprchecklist.io/) | [CANDDi-GDPR](https://42kau828bfupkoivy3cyep8r-wpengine.netdna-ssl.com/assets/CANDDi-GDPR.pdf) | [12 steps](https://ico.org.uk/media/1624219/preparing-for-the-gdpr-12-steps.pdf)
+Notes on the new GDPR law, sources
+
+European privacy law [Article 5 EU GDPR](http://www.privacy-regulation.eu/en/5.htm)
 
 ### AVG (NL)
 
@@ -20,7 +22,7 @@ Index
 - [Grondslagen](#grondslagen)
 - [Verantwoordingsplicht](#verantwoordingsplicht)
 - [Maatregelen](#verplichte-maatregelen)
-- [Bronnen](#bronnen-nl)
+- [Bronnen](#bronnen-nl)/[sources](#sources-en)
 
 Meer info
 - [Webouwer Richtlijn Privacy verklaring](https://github.com/webbouwer/boilerplates/blob/master/data/privacy/GDPR/checklist_AVG_media.md)
@@ -113,5 +115,10 @@ Bijvoorbeeld het aansluiten bij een gedragscode en/of het afleggen van verantwoo
 - [AVG B2B 4](https://www.onlinesucces.nl/b2b-avg-gdpr-marketing/)
 - [AVG Article 5 EU GDPR 5](http://www.privacy-regulation.eu/en/5.htm)
 - [Zo is je privacyverklaring avg gdpr proof](https://www.frankwatching.com/archive/2018/01/12/zo-is-je-privacyverklaring-avg-gdpr-proof/)
+
+### sources EN
+- [The GDPR Compliance Checklist](https://gdprchecklist.io/) 
+- [CANDDi-GDPR](https://42kau828bfupkoivy3cyep8r-wpengine.netdna-ssl.com/assets/CANDDi-GDPR.pdf) 
+- [12 steps](https://ico.org.uk/media/1624219/preparing-for-the-gdpr-12-steps.pdf)
 - [GDPR How to make your website compliant 6](https://www.hallaminternet.com/how-to-make-your-website-gdpr-compliant/)
 
