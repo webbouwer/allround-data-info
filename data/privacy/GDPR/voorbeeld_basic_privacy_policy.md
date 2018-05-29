@@ -34,14 +34,14 @@ Verwerking van persoonsgegevens
 5.      Online aankopen
 6.      Workshops en cursus
 7.      Websites voor BRANCH, CATEGORY1, CATEGORY2
-7.1    Online behandeling
-7.2    DIY/Zelfhulp
-7.3    Test
+        a. Online behandeling
+        b. DIY/Zelfhulp
+        c. Test
 8.      Contact
-9.    Bedrijfsoverdracht
-10.    Inzage en correctie van uw gegevens
+9.      Bedrijfsoverdracht
+10.     Inzage en correctie van uw gegevens
 11.     Beveiliging
-12.    Wijzigingen
+12.     Wijzigingen
 Bijlage 1: Overzicht BEDRIJF websites
 
 Verwerking van persoonsgegevens
