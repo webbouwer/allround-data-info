@@ -134,7 +134,7 @@ Wanneer u zich aanmeldt voor een cursus, verwerkt BEDRIJF de volgende gegevens:
 
 BEDRIJF biedt via gespecialiseerde webwinkels specifieke producten en diensten aan voor professionals en studenten in de BRANCH. Daarnaast worden DIY en zelfhulpproducten aangeboden.
 
-7.1    Online behandeling
+7a    Online behandeling
 
 Via de volgende websites kunnen behandelaren, ter ondersteuning van een door hen aanboden therapie, online contact houden met cliënten. 
 
@@ -168,7 +168,7 @@ Indien het informatiesysteem van de zorgaanbieder is gekoppeld aan DERDEPARTIJ1,
     geslacht
 
 
-7.2    Zelfhulp
+7b    Zelfhulp
 
 BEDRIJF biedt via de volgende websites zelfhulpproducten aan:
 
@@ -187,7 +187,7 @@ Bij het aanbieden van een zelfhulpproduct verwerkt Boom de volgende gegevens:
 
 Deze persoonsgegevens worden uitsluitend verwerkt om het gebruik van het zelfhulpproduct mogelijk te maken. Nadat het gebruik van het zelfhulpproduct beëindigd is, worden deze persoonsgegevens verwijderd uit de online omgeving, tenzij de behandelaar deze langer bewaart. In dit geval worden de persoonsgegevens maximaal twee jaar bewaard.  
 
-7.3    Tests
+7c    Tests
 
 Via de volgende websites van Boom kunnen behandelaars tests afnemen bij cliënten. 
 
