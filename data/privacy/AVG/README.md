@@ -6,6 +6,8 @@ De Algemene verordening gegevensbescherming (AVG) is in de EU van toepassing sin
 
 European privacy law [Article 5 EU GDPR](http://www.privacy-regulation.eu/en/5.htm)
 
+[Webbouwer Disclaimer](https://github.com/webbouwer/boilerplates/blob/master/data/privacy/AVG/disclaimer.md)
+
 ---
 
 Index
@@ -17,6 +19,8 @@ Index
 - [Verantwoordingsplicht](#verantwoordingsplicht)
 - [Maatregelen](#verplichte-maatregelen)
 - [Bronnen](#bronnen)
+
+#### [Privacy Policy Voorbeeld model](https://github.com/webbouwer/boilerplates/blob/master/data/privacy/AVG/privacy_policy.md)
 
 ---
 
