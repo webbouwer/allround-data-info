@@ -1,111 +1,104 @@
-###  AVG info / Notes GDRP
+###  Sources GDRP
+General Data Protection Regulation
 
-## Algemene verordening gegevensbescherming (AVG)
-
-## (General Data Protection Regulation - GDPR)
-
-Notes on the new GDPR law including sources for background info.
+Notes & sources regarding the new GDPR law including sources for background info.
 
 European privacy law [Article 5 EU GDPR](http://www.privacy-regulation.eu/en/5.htm)
 
+2018 05 25 - General data protection regulation (GDPR) is applicable (EU) instead of the Personal Data Protection Act (Wbp). For everyone, except for Justice and police, who is collecting and processing personal data (privacy data) has been in force since the 25th of May 2018.
+
 ---
+
+This document is in translation from https://github.com/webbouwer/boilerplates/tree/master/data/privacy/AVG
 
 Index
-- [AVG NL](#avg-nl)
-- [Hoofdpunten](#hoofdpunten)
-- [Persoonsgegevens](#persoonsgegevens)
-- [Verplichting](#verplichting)
-- [Grondslagen](#grondslagen)
-- [Verantwoordingsplicht](#verantwoordingsplicht)
-- [Maatregelen](#verplichte-maatregelen)
-- [Bronnen](#bronnen-nl)/[sources](#sources-en)
-
-Richtlijnen en checklist
-- [Webouwer Richtlijn Privacy verklaring](https://github.com/webbouwer/boilerplates/blob/master/data/privacy/GDPR/checklist_AVG_media.md)
-- [Webbouwer Checklist AVG (in ontwikkeling)](https://github.com/webbouwer/boilerplates/blob/master/data/privacy/GDPR/checklist_AVG.md)
+- [AVG NL](#sources-gdpr)
+- [Main points](#main-points)
+- [Personal data](#personal-data)
+- [Commitment](#commitment)
+- [Foundations](#foundations)
+- [Accountability](#accountability)
+- [Measures](#mandatory-measures)
+- Sources [en](#sources-en) [nl](#bronnen-nl)
 
 ---
 
-### AVG (NL)
+### Main points
 
-2018 05 25 - Algemene verordening gegevensbescherming (AVG) van toepassing (EU) ipv. de Wet bescherming persoonsgegevens (Wbp). Voor iedereen, muv. justitie en politie, die persoonsgegevens (privacy data) verzamelen en behandelen is sinds 25 mei 2018 de AVG van kracht. 
+- Transparency: Clearly inform about how the personal data is collected, processed and transferred.
 
-### Hoofdpunten
+- Accountability: Companies have a documentation obligation, a duty of proof and the responsibility to reduce privacy risks with regard to personal data.
 
-- Transparantie: Duidelijk informeren over hoe de persoonsgegevens worden verzamelt, verwerkt en overgedragen.
+- Consumer rights
 
-- Verantwoording: Bedrijven hebben een documentatieplicht, een bewijsplicht en de verantwoordelijkheid om privacyrisico’s terug te dringen met betrekking tot persoonsgegevens.
+    The right to view, correct or delete your own data.
+    The right to request personal data in an accessible file format (eg Excel) and transfer it to other companies.
+    The right to be forgotten: companies must delete personal data if the person requests it. This must be done immediately and at the latest within one month. Note: this also applies to data that has since been shared with third parties.
 
-- Consumentenrechten
+- Reporting obligation for data leaks: Companies are obliged to report a data leak within 72 hours, unless it can be demonstrated that the leak is not a hazard for the persons on whom the data have been collected.
 
-    Het recht om de eigen gegevens in te zien, te corrigeren of te verwijderen.
-    Het recht om eigen persoonsgegevens op te vragen in een toegankelijk bestandsformaat (bijv. Excel) en deze over te dragen aan andere bedrijven.
-    Het recht om vergeten te worden: bedrijven moeten persoonsgegevens wissen als de persoon hierom vraagt. Dit dient per direct te gebeuren en uiterlijk binnen een maand. Let op: dit geldt ook voor data die inmiddels is gedeeld met derde partijen.
+- Privacy by design and privacy by default: In the case of privacy by design, technical and organizational information is carefully processed with personal data when developing new products or services. Privacy by default means that measures are taken to collect only the necessary data by default for the purpose for which you collect them.
 
-- Meldplicht bij datalekken: Bedrijven zijn verplicht om binnen 72 uur een datalek te melden, tenzij kan worden aangetoond dat het lek geen gevaar is voor de personen waarover de gegevens zijn verzameld.
+[top] (# avg-info - notes-gdrp)
 
-- Privacy by design en privacy by default: Bij privacy by design wordt bij de ontwikkeling van nieuwe producten of diensten standaard technisch en organisatorisch zorgvuldig met persoonsgegevens om gegaan. Privacy by default betekent dat maatregelen worden genomen om standaard alleen de noodzakelijke gegevens te verzamelen voor het doel waarvoor je ze verzamelt.
+### Personal data
 
-[top](#avg-info--notes-gdrp)
+##### What does the AVG understand by special personal data?
+Personal data that are very sensitive by nature, including genetic data and biometric data if they can be traced back to a person.
 
-### Persoonsgegevens
+### Commitment
 
-##### Wat verstaat de AVG onder bijzondere persoonsgegevens?
-Persoonsgegevens die door hun aard bijzonder gevoelig zijn, inclusief genetische gegevens en biometrische gegevens als deze herleidbaar zijn tot een persoon.
+As of 25 May, organizations under the AVG are obliged to perform a data protection impact assessment (DPIA) if processing may involve a high risk for the rights and freedoms of those involved.
 
-### Verplichting
+### Foundations
 
-Vanaf 25 mei zijn organisaties onder de AVG verplicht een data protection impact assessment (DPIA) uit te voeren als een verwerking mogelijk een hoog risico inhoudt voor de rechten en vrijheden van de betrokkenen.
+The AVG has 6 principles for the processing of personal data:
 
-### Grondslagen
+- Permission from the person concerned.
+- Data processing is necessary for
+  - the execution of an agreement.
+  - compliance with a legal obligation.
+  - to protect the vital interests.
+  - the fulfillment of a task of general interest or exercise of public authority.
+  - the representation of legitimate interests.
 
-De AVG kent 6 grondslagen voor het verwerken van persoonsgegevens:
+Personal data can not be processed without the above-mentioned principles.
 
-- Toestemming van de betrokken persoon.
-- De gegevensverwerking is noodzakelijk voor
-  - de uitvoering van een overeenkomst.
-  - het nakomen van een wettelijke verplichting.
-  - ter bescherming van de vitale belangen.
-  - de vervulling van een taak van algemeen belang of uitoefening van openbaar gezag.
-  - de behartiging van de gerechtvaardigde belangen.
+[top] (# avg-info - notes-gdrp)
 
-zonder bovengenoemde grondslagen mogen persoongegevens niet verwerkt worden.
+### Accountability
 
-[top](#avg-info--notes-gdrp)
+The processing of personal data must be based on at least 1 of the 6 AVG bases if requested by the Dutch Data Protection Authority.
+Under the AVG, the [accountability] applies (https://autoriteitpersoonsgegevens.nl/nl/onderwerpen/avg-europese-privacywetgeving/verantwoordingsplicht).
 
-### Verantwoordingsplicht
+### Mandatory measures
 
-De verwerking van persoonsgegevens moet op minimaal 1 van de 6 AVG-grondslagen gebaseerd zijn als de Autoriteit Persoonsgegevens daar om vraagt. 
-Onder de AVG geldt namelijk de [verantwoordingsplicht](https://autoriteitpersoonsgegevens.nl/nl/onderwerpen/avg-europese-privacywetgeving/verantwoordingsplicht).
+The mandatory measures that the AVG specifically mentions are:
+- maintaining a register of processing activities;
+- carrying out a data protection impact assessment (DPIA) for data processing with a * high privacy risk *;
+- maintaining a register of data leaks that have occurred;
+- demonstrating that a data subject has actually given permission for data processing when you require permission for processing.
+- if it is unclear whether you are obliged to appoint a Data Protection Officer, you must be able to substantiate why you chose to appoint an FG or not.
 
-###  Verplichte maatregelen
-
-De verplichte maatregelen die de AVG concreet noemt zijn:
-- het bijhouden van een register van verwerkingsactiviteiten; 
-- het uitvoeren van een data protection impact assessment (DPIA) voor gegevensverwerkingen met een *hoog privacyrisico*;
-- het bijhouden van een register van datalekken die zijn opgetreden;
-- het aantonen dat een betrokkene daadwerkelijk toestemming heeft gegeven voor een gegevensverwerking wanneer u voor een verwerking toestemming nodig heeft.
-- wanneer onduidelijk is of u verplicht bent om een Functionaris voor gegevensbescherming aan te stellen, moet u goed kunnen onderbouwen waarom u ervoor gekozen hebt om al dan niet een FG aan te stellen.
-
-[top](#avg-info--notes-gdrp)
+[top] (# avg-info - notes-gdrp)
 
 ---
 
-Kennisgeving en instemming AVG
+Notification and consent AVG
 - Website / application owners
 - Business owners
 
 ---
 
-#### Mogelijke extra maatregelen 
+#### Possible extra measures
 
-Naast deze verplichte maatregelen kunt u ervoor kiezen om extra maatregelen te nemen waarmee u aantoont dat u voldoet aan de eisen van de AVG. 
-Bijvoorbeeld het aansluiten bij een gedragscode en/of het afleggen van verantwoording over de verwerking van persoonsgegevens in uw jaarverslag of 
-- bijhouden van een register van verwerkingsactiviteiten;
-- uitvoeren van een privacy impact assessment (PIA);
-- bijhouden van een register van datalekken die zijn opgetreden;
-- aantonen dat een betrokkene daadwerkelijk toestemming heeft gegeven;
-- onderbouwen waarom ervoor gekozen is om al dan niet een FG/DPOO aan te stellen.
+In addition to these mandatory measures, you can choose to take additional measures to prove that you meet the AVG requirements.
+For example, connecting to a code of conduct and / or reporting on the processing of personal data in your annual report or
+- keeping a register of processing activities;
+- carrying out a privacy impact assessment (PIA);
+- keeping a record of data leaks that have occurred;
+- demonstrate that a data subject has actually given permission;
+- to substantiate why it was decided whether or not to appoint an FG / DPOO.
 
 ---
 
