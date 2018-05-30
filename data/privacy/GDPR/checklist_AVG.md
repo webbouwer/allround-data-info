@@ -1,61 +1,107 @@
+### GDPR (EN)
+
+2018 05 25 - General data protection regulation (AVG) applicable (EU) instead of. the Personal Data Protection Act (Wbp). For everyone, except for Justice and police, collecting and processing personal data (privacy data) has been in force since the 25th of May 2018.
+
+### Main points
+
+- Transparency: Clearly inform about how the personal data is collected, processed and transferred.
+
+- Accountability: Companies have a documentation obligation, a duty of proof and the responsibility to reduce privacy risks with regard to personal data.
+
+- Consumer rights
+
+    The right to view, correct or delete your own data.
+    The right to request personal data in an accessible file format (eg Excel) and transfer it to other companies.
+    The right to be forgotten: companies must delete personal data if the person requests it. This must be done immediately and at the latest within one month. Note: this also applies to data that has since been shared with third parties.
+
+- Reporting obligation for data leaks: Companies are obliged to report a data leak within 72 hours, unless it can be demonstrated that the leak is not a hazard for the persons on whom the data have been collected.
+
+- Privacy by design and privacy by default: In the case of privacy by design, technical and organizational information is carefully processed with personal data when developing new products or services. Privacy by default means that measures are taken to collect only the necessary data by default for the purpose for which you collect them.
+
+[top] (# avg-info - notes-gdrp)
+
+### Personal data
+
+##### What does the AVG understand by special personal data?
+Personal data that are very sensitive by nature, including genetic data and biometric data if they can be traced back to a person.
+
+### Commitment
+
+As of 25 May, organizations under the AVG are obliged to perform a data protection impact assessment (DPIA) if processing may involve a high risk for the rights and freedoms of those involved.
+
+### Foundations
+
+The AVG has 6 principles for the processing of personal data:
+
+- Permission from the person concerned.
+- Data processing is necessary for
+  - the execution of an agreement.
+  - compliance with a legal obligation.
+  - to protect the vital interests.
+  - the fulfillment of a task of general interest or exercise of public authority.
+  - the representation of legitimate interests.
+
+Personal data can not be processed without the above-mentioned principles.
+
+[top] (# avg-info - notes-gdrp)
+
 ## AVG Checklist
 
-Algemeen:
-Als de betrokkene zelf de gegevens geeft, dan moet je hem/haar daarbij direct informeren. Krijg je de persoonsgegevens niet van de betrokkene zelf, dan moet je binnen een maand na het krijgen van de gegevens of bij het eerste contact (zoals via direct marketing) hem/haar informeren.
+General:
+If the data subject provides the data yourself, you must inform him / her immediately. If you do not receive the personal data from the person concerned, you must inform him / her within one month of receiving the data or the first contact (such as via direct marketing).
 
-### Wat moet er in de privacy verklaring staan?
-- [ ] Identiteit. Bijvoorbeeld de bedrijfsnaam (zoals die is ingeschreven bij de KvK) en de contactgegevens.
-- [ ] Doeleinden en rechtsgronden voor de verwerking. Rechtsgronden zijn bijvoorbeeld toestemming, uitvoering van een overeenkomst of een wettelijke verplichting. Een doel kan de uitvoering van de overeenkomst zijn, maar het kan ook een marketingdoel zijn, zoals het verzenden van een nieuwsbrief. Je moet alle doeleinden beschrijven.
-- [ ] Als de verwerking van de persoonsgegevens een wettelijke of contractuele verplichting of noodzakelijke voorwaarde is, moet je ook de gevolgen van het niet verstrekken van de persoonsgegevens vermelden.
-- [ ] Duur van de opslag. Je moet aangeven hoe lang de gegevens bewaard worden, of anders: welke criteria bepalen hoe lang het opgeslagen zal worden.
-- [ ] Recht op inzage, rectificatie of wissen van de persoonsgegevens. De betrokkene heeft dit recht en daarover moet je hem/haar in de privacyverklaring informeren. Hierbij kun je meteen vermelden hoe de betrokkene dat verzoek kan indienen.
-- [ ] Het recht om een klacht in te dienen bij de Autoriteit Persoonsgegevens.
+### What should be in the privacy statement?
+- [] Identity. For example the company name (as registered at the Chamber of Commerce) and the contact details.
+- [] Purposes and legal bases for processing. Legal grounds are, for example, permission, execution of an agreement or a legal obligation. A goal can be the execution of the agreement, but it can also be a marketing goal, such as sending a newsletter. You must describe all purposes.
+- [] If the processing of the personal data is a legal or contractual obligation or necessary condition, you must also state the consequences of not providing the personal data.
+- [] Duration of storage. You have to indicate how long the data is saved, or otherwise: which criteria determine how long it will be stored.
+- [] Right to inspect, rectify or delete the personal data. The person concerned has this right and you must inform him / her about this in the privacy statement. You can immediately state how the person concerned can submit that request.
+- [] The right to lodge a complaint with the Dutch Data Protection Authority.
 
-[AVG info](https://github.com/webbouwer/boilerplates/tree/master/data/privacy/GDPR)
+[AVG info] (https://github.com/webbouwer/boilerplates/tree/master/data/privacy/GDPR)
 
---- 
- ### Webbouwer Checklist (in progress)
-Hieronder een overzicht van aandachtspunten binnen de AVG voor webbouwers
+---
+ ### Web Builder Checklist (in progress)
+Below an overview of points of interest within the AVG for web builders
 
-- [ ] Transparantie:
-  - Heldere communicatie over gegevens gebruik
+- [] Transparency:
+  - Clear communication about data usage
 
-- [ ] Website/Applicatie algemeen:
-  - SSL / https protocol (standaard data encryptie/versleuteling)
-  - Cookie toestemming (wanneer een cookie niet essentiëel is voor de website of aplicatie en gebruikt wordt om persoonsgebonden gegevens te verzamelen zoals social media deelknoppen, remarketing lijsten en visuele analytics (heatmaps)
-  - AVG toestemming (wanneer persoonsgevens bewaard en gebruikt worden)
+- [] Website / Application general:
+  - SSL / https protocol (standard data encryption / encryption)
+  - Cookie permission (when a cookie is not essential for the website or application and is used to collect personal data such as social media part buttons, remarketing lists and visual analytics (heatmaps)
+  - AVG permission (when personal data is stored and used)
 
-- [ ] Web Formulieren/data verzamelen:
-  - Actieve opt-in van gebruiker nodig; er mag geen optie aangevinkt zijn voor toestemming verwerking persoonsgegevens
-  - Vragen om toestemming mogen niet gebundeld worden, toestemming dient apart gevraagd een beantwoord te worden;
-    - Instemming met website/bedrijfs/leverings/garantie voorwaarden/disclaimer etc.
-    - Toestemming voor gebruik persoonsgegevens (controllers) b.v. contact via email en telefoon
-    - Toestemming voor het verwerken en gebruiken van data door derden(processors) b.v. google drive excell data
-  - Toestemming(en) moeten eenvoudig omkeerbaar zijn bv. dmv. een persoonlijk formulier persoongsgegevens
-  - Derde partijen die de persoonlijk data verwerken moeten met naam genoemd worden
-  - In de Prive notitie (privacy notice) en algemene voorwaarden moeten helder en duidelijk omschreven zijn waarvoor de data gebruikt wordt, wat er met de data wordt gedaan en hoe lang de data bewaard wordt in de verschillende media/administraties.
+- [] Web Forms / data collection:
+  - User active opt-in required; no option may be checked for permission to process personal data
+  - Requests for permission may not be combined, permission must be answered separately;
+    - Consent with website / company / delivery / guarantee conditions / disclaimer etc.
+    - Permission for use of personal data (controllers) e.g. contact via email and telephone
+    - Permission for processing and using data by third parties (processors) e.g. google drive excell data
+  - Permission (s) must be easily reversible, eg by means of. a personal form of personal data
+  - Third parties that process personal data must be named by name
+  - The Private Note (privacy notice) and general terms and conditions must clearly and clearly describe what the data is used for, what is done with the data and how long the data is stored in the various media / administrations.
 
-- [ ] Online Betalingen
-  - Voor systemen die gebruik maken van betalingsdiensten van derden (bv. paypal, ideal) en die na een betaling de digitale gegevens bewaren, moet een maximale bewaar termijn aangegeven en gehandhaaft worden (bv. 60 dagen)
-
-
-- [ ] Trackers
-  - als tracker-software persoonsgebonden informatie opslaat moet hiervoor toestemming gevraagd worden.
-  bv. Google analytics bewaard data, in de eerste plaats niet persoonsgebonden, tenzij de bezoeker is aangemeld bij Google; er moet voor het delen van de gegevens met Google toestemming gegeven worden.  
+- [ ] Online Payments
+  - For systems that use payment services from third parties (eg paypal, ideal) and keep the digital data after a payment, a maximum storage period must be indicated and maintained (eg 60 days)
   
-- [ ] Administratie 
-  - data opslag 
-  - media en locatie
-  - Verantwoordingsplicht en beveiliging
-  - Derde partijen moeten met naam genoemd worden en zijn niet verantwoordelijk voor de data 
+- [ ] Trackers
+   - if tracker software stores personal information, permission must be requested.
+   eg Google analytics retains data, primarily non-personal, unless the visitor is logged into Google; you must give permission for sharing the data with Google.
+  
+- [ ] Administration
+   - data storage
+   - media and location
+   - Accountability and security
+   - Third parties must be mentioned by name and are not responsible for the dates
 
 
-[AVG info](https://github.com/webbouwer/boilerplates/tree/master/data/privacy/GDPR)
+[AVG info] (https://github.com/webbouwer/boilerplates/tree/master/data/privacy/GDPR)
 
 ---
 
-Privacy Policy 
-- In de privacy policy komen alle onderwerpen en vragen aanbod (Voorbeeld EN) 
-  ![i](https://assets.econsultancy.com/images/0008/7669/privacy_notice_ico.jpg)
+Privacy Policy
+- In the privacy policy all topics and questions are offered (Example EN)
+   ! [i] (https://assets.econsultancy.com/images/0008/7669/privacy_notice_ico.jpg)
 
 ---
