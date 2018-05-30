@@ -20,6 +20,9 @@ Index
 - [Maatregelen](#verplichte-maatregelen)
 - [Bronnen](#bronnen)
 
+
+
+#### [AVG Checklist](https://github.com/webbouwer/boilerplates/blob/master/data/privacy/AVG/avg_checklist.md)
 #### [Privacy Policy Voorbeeld model](https://github.com/webbouwer/boilerplates/blob/master/data/privacy/AVG/privacy_policy.md)
 
 ---
