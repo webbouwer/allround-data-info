@@ -1,3 +1,0 @@
-### Weather and climate
-
-Collecting
