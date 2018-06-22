@@ -13,6 +13,11 @@ Document in progress.
 The MSM is a product of commercial processes. 
 It is innevitable that the Mainstream media is continually influencing society into the commercial mindset. 
 
+
+### Commerce and the kapitalistic mindset
+
+As society is influenced and therein individuals are indoctrinated with the mindset of commerce, many human beings have unconsciously embedded the principles of private profit at the expense of others into all aspects of their life. 
+
 ### Race, gender and sexual orientation
  
 Natural differences, like race, gender and sexual orientation, have always been exploited by certain entities to devide and rule in society. 
