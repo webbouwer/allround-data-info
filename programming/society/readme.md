@@ -4,19 +4,23 @@ Social engineering, Indoctrination, Subliminal programming and Mind control.
 
 Document in progress.
 
+related repo's:
+
+
 
 ### Active topics 
 
 
 ### Mainstream/mass media (MSM)
 
-The MSM is a product of commercial processes. 
-It is innevitable that the Mainstream media is continually influencing society into the commercial mindset. 
+The MSM is a product of economic commercial processes. 
+It is innevitable that the MSM is continually influencing society into the economic commercial mindset. 
 
 
 ### Commerce and the kapitalistic mindset
 
 As society is influenced and therein individuals are indoctrinated with the mindset of commerce, many human beings have unconsciously embedded the principles of private profit at the expense of others into all aspects of their life. 
+On the other side, all commerce is bound by the monetairy system of private banks, the money makers, who determine a nations rise or fall just by letting the money flow a different direction.
 
 ### Race, gender and sexual orientation
  
