@@ -1,8 +1,25 @@
+Warnings
+
+![](http://estofex.org/cgi-bin/polygon/showforecast.cgi?map=yes)
+
+source: estofex.org
+
+
+
 Tempatures
 
 ![](http://tempsreel.infoclimat.net/temperature/europe_now.png)
 
 source: infoclimat.fr
+
+
+
+Moisture
+
+![](http://www.meteociel.com/cartes_obs/humi.png)
+
+source: meteociel.com
+
 
 
 Rain
