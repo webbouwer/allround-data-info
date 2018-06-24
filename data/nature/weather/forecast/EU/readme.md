@@ -14,6 +14,13 @@ bron: sat24.com
 
 
 
+Luchtdruk verwachting
+
+![](http://db.eurad.uni-koeln.de/prognose/data/aktuell/slv_eur_1h_movd1.gif)
+
+bron: db.eurad.uni-koeln.de
+
+
 Windrichting en kracht 
 
 ![](http://db.eurad.uni-koeln.de/prognose/data/aktuell/sto_cen_1h_movd1.gif)
