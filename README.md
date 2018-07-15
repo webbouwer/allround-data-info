@@ -13,3 +13,10 @@ A place to find, test and refine
 
 ### Privacy
 - [General Data Protection Regulation (AVG NL)](https://github.com/webbouwer/boilerplates/tree/master/data/privacy/GDPR)
+
+### Data
+
+#### Weather
+  - [Forecast NL](https://github.com/webbouwer/boilerplates/tree/master/data/nature/weather/forecast/NL)
+  - [Forecast EU](https://github.com/webbouwer/boilerplates/tree/master/data/nature/weather/forecast/EU)
+
