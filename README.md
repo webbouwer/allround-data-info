@@ -19,8 +19,11 @@ A place to find, test and refine
 
 ### Programming
 
-#### Web
+#### HTML / Javscript / WEB UI / Clientside applications
   - [Markdown text](https://github.com/webbouwer/boilerplates/blob/master/programming/technology/web/markdown.md)
   - [Shields and Badges](https://github.com/webbouwer/boilerplates/blob/master/webcode/markup/shields_and_badges.md)
+  
+#### CMS / PHP / Serverside applications
+  - [Wordpress most used pluginlist](https://github.com/webbouwer/boilerplates/tree/master/programming/technology/web/application/wordpress/pluginlist)
 
 
