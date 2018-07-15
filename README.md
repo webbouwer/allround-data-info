@@ -7,15 +7,6 @@ A place to find, test and refine
 
 --- 
 
-### Data
-
-#### Privacy
-  - [General Data Protection Regulation (AVG NL)](https://github.com/webbouwer/boilerplates/tree/master/data/privacy/GDPR)
-
-#### Weather
-  - [Forecast NL](https://github.com/webbouwer/boilerplates/tree/master/data/nature/weather/forecast/NL)
-  - [Forecast EU](https://github.com/webbouwer/boilerplates/tree/master/data/nature/weather/forecast/EU)
-
 
 ### Programming
 
@@ -25,5 +16,16 @@ A place to find, test and refine
   
 #### CMS / PHP / Serverside applications
   - [Wordpress most used pluginlist](https://github.com/webbouwer/boilerplates/tree/master/programming/technology/web/application/wordpress/pluginlist)
+
+
+### Data
+
+#### Privacy
+  - [General Data Protection Regulation (AVG NL)](https://github.com/webbouwer/boilerplates/tree/master/data/privacy/GDPR)
+
+#### Weather
+  - [Forecast NL](https://github.com/webbouwer/boilerplates/tree/master/data/nature/weather/forecast/NL)
+  - [Forecast EU](https://github.com/webbouwer/boilerplates/tree/master/data/nature/weather/forecast/EU)
+
 
 
