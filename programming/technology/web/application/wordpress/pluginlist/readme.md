@@ -223,6 +223,7 @@ TODO :P
 ## <a name="popup"></a>Popup
 * [wp popup maker](https://wordpress.org/plugins/popup-maker/)
 * [modal window](https://wordpress.org/plugins/modal-window/)
+* [wp lightbox 2](https://wordpress.org/plugins/wp-lightbox-2/)
 * [wp jquery lightbox](https://wordpress.org/plugins/wp-jquery-lightbox/)
 * [popup builder](https://wordpress.org/plugins/popup-builder/)
 
