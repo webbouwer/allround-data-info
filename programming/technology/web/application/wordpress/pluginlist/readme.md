@@ -36,6 +36,7 @@ Open source or a free (lite)version of a commercial package.
 * [Privacy](#privacy): Privacy policy tools and guidelines
 * [Security](#security): Security tools and function extensions
 * [Session](#session): Site session control and function extensions
+* [Shop](#shop): Shop tools and extensions - see [Webshop](#webshop)
 * [Sitemap](#sitemap): Sitemap tools and extensions 
 * [Slider](#slider): Slider tools and functions
 * [Social Api](#socialapi): Social network api tools and functions
@@ -47,6 +48,7 @@ Open source or a free (lite)version of a commercial package.
 * [Url](#url): Url management tools and function extensions
 * [User](#user): User tools and function extensions
 * [Video](#video): Video display tools and function extensions
+* [Webshop](#webshop): Shop tools and extensions - (shop)
 * [Widget](#widget): Widget display and function extensions
 
 # Plugin list
@@ -274,7 +276,9 @@ TODO :P
 * https://wordpress.org/plugins/theme-check/
 
 ## <a name="translation"></a>Translation
-* https://wordpress.org/plugins/wpglobus/
+* [WP Globus](https://wordpress.org/plugins/wpglobus/)
+* [Polylang](https://wordpress.org/plugins/polylang/) 
+* [Hyyan WooCommerce Polylang Integration](https://wordpress.org/plugins/woo-poly-integration/)
 
 ## <a name="url"></a>Url
 * https://wordpress.org/plugins/velvet-blues-update-urls/
@@ -289,6 +293,12 @@ TODO :P
 * background-videos-for-visual-composer (deprecated)
 * https://wordpress.org/plugins/fv-wordpress-flowplayer/
 * https://wordpress.org/plugins/wpmbytplayer/
+
+## <a name="webshop"></a>Webshop
+* [WooCommerce](https://wordpress.org/plugins/woocommerce/)
+* [WooCommerce PayPal Checkout Gateway](https://wordpress.org/plugins/woocommerce-gateway-paypal-express-checkout/)
+* (Hyyan WooCommerce Polylang Integration)[translation](#translation)
+* [Mollie Payments for WooCommerce](https://wordpress.org/plugins/mollie-payments-for-woocommerce/)
 
 ## <a name="widget"></a>Widget
 * https://wordpress.org/plugins/display-widgets/
