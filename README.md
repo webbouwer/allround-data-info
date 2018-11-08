@@ -7,15 +7,9 @@ A place to find, compare, test, solve and refine
 
 # Data 
 
-### Weather
-  - [Forecast NL](https://github.com/webbouwer/boilerplates/tree/master/data/nature/weather/forecast/NL)
-  - [Forecast EU](https://github.com/webbouwer/boilerplates/tree/master/data/nature/weather/forecast/EU)
-
-### Radiation
-TODO..
-
-### Privacy
+### Law & Privacy
   - [General Data Protection Regulation (AVG NL)](https://github.com/webbouwer/boilerplates/tree/master/data/privacy/GDPR)
+  - [Algemeen nut beogende instellingen (ANBI NL)](https://github.com/webbouwer/boilerplates/tree/master/data/law/ANBI)
 
 # Development
 
@@ -23,6 +17,13 @@ TODO..
 
   - [Markdown text](https://github.com/webbouwer/boilerplates/blob/master/programming/technology/web/markdown.md)
   - [Shields and Badges](https://github.com/webbouwer/boilerplates/blob/master/webcode/markup/shields_and_badges.md)
+
+### Weather
+  - [Forecast NL](https://github.com/webbouwer/boilerplates/tree/master/data/nature/weather/forecast/NL)
+  - [Forecast EU](https://github.com/webbouwer/boilerplates/tree/master/data/nature/weather/forecast/EU)
+
+### Radiation
+TODO..
 
   
 ### WEB APP / Serverside applications
