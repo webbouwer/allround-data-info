@@ -22,9 +22,11 @@
 
 
 ### Plugins 
+  - [Jetpack](https://wordpress.org/plugins/jetpack/)
   - [AIO wp security & firewall](https://wordpress.org/plugins/all-in-one-wp-security-and-firewall/)
   - [Bulletproof security](https://wordpress.org/plugins/bulletproof-security/)
   - [Wordfence](https://nl.wordpress.org/plugins/wordfence/)
   - [Hide casual acces paths](https://wordpress.org/plugins/hide-my-wp/)
   - [IThemes security](https://ithemes.com/security/)
   
+  more at [wordpress.org/plugins](https://wordpress.org/plugins/tags/security/)
